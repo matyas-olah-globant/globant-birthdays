@@ -1,0 +1,10 @@
+{
+  "email": "john.doe@example.com",
+  "name": "John Doe",
+  "role": "Java Developer",
+  "location": "EX/AM/Ple",
+  "birthday": {
+    "month": "SEPTEMBER",
+    "day": 13
+  }
+}
